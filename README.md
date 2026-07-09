@@ -1,6 +1,6 @@
 # Advanced Interactive Hangman Game
 
-A professional, production-ready, text-based implementation of the classic Hangman game built using Python. [cite_start]This project was developed as part of the **InternGrow Python Programming Track (Task 1)**
+A professional, production-ready, text-based implementation of the classic Hangman game built using Python. This project was developed as part of the **InternGrow Python Programming Track (Task 1)**
 
 This application goes beyond a basic terminal game by incorporating real-world software engineering practices, including live data integration via an external public REST API, dynamic difficulty scaling, robust exception handling, and an optimized command-line user interface.
 
@@ -29,5 +29,4 @@ Follow these simple steps to run the game locally on your machine:
 1. **Clone the Repository:**
    Create a local clone of this repository. Ensure you match the official repository naming convention:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/InternGrow_HangmanGame.git](https://github.com/YOUR_GITHUB_USERNAME/InternGrow_HangmanGame.git)
-   cd InternGrow_HangmanGame
+   git clone [https://github.com/muneebyaseen134-rgb/InternGrow_Advanced_Interactive_Hangman_Game.git]
